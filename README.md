@@ -1,7 +1,6 @@
-# Data visualization project - Flavors of Chocolate
+# Flavors of Chocolate
 
-## An analysis of more than 2000 chocolate bars tasted by the members of the Manhattan Chocolate Society.
-
+## A visual analysis of more than 2000 chocolate bars tasted by the members of the Manhattan Chocolate Society.
 Every year the Manhattan Chocolate Society taste and review hundreds of chocolate bars, produced all over the world.
 
 For every bar tasted various info are reported: ingredients, beans origin, overrall taste, smell, consistency, cocoa percentage and, among others, their personal rating.
@@ -20,5 +19,11 @@ We tried to answer our questions with an infographic made of 4 visualizations:
 2. **Most memorable characteristics** - *focuses on the bars' most common flavors*
 3. **The perfect recipe** - *employed a cool upset plot*
 4. **Cocoa percentage distribution** - *because our professor loved violin plot* 
+
+## The data
+We used 2 dataset from Kaggle:
+
+1. [Chocolate dataset](https://www.kaggle.com/datasets/soroushghaderi/chocolate-bar-2020 "Chocolate bar dataset")
+2. [Geo data](https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-every-country-and-state "Lat and Long dataset") 
 
 
