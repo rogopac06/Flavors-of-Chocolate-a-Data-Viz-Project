@@ -1,5 +1,7 @@
 # Flavors of Chocolate
 
+![Viz](https://github.com/rogopac06/Dataviz-Proj/blob/main/Flavors%20of%20Chocolate.png)
+
 ## A visual analysis of more than 2000 chocolate bars tasted by the members of the Manhattan Chocolate Society.
 Every year the Manhattan Chocolate Society taste and review hundreds of chocolate bars, produced all over the world.
 
